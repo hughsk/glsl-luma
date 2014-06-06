@@ -1,6 +1,6 @@
 {
   "name": "glsl-luma",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get the luma (brightness) of an RGB color in GLSL. Useful for converting images to greyscale",
   "main": "index.js",
   "license": "MIT",

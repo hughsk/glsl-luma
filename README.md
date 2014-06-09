@@ -2,7 +2,7 @@
 
 Get the luma (brightness) of an RGB color in GLSL. Useful for converting images to greyscale.
 
-[![glsl-luma](http://imgur.com/7O5SbmC)](http://hughsk.io/glsl-luma)
+[![glsl-luma](http://imgur.com/7O5SbmC.png)](http://hughsk.io/glsl-luma)
 
 ## Usage
 
